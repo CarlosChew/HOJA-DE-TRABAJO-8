@@ -1,3 +1,6 @@
-/Pacientes.txt
 /hoja/
-/org/
+/patients.csv
+/Patient.class
+/PatientPriority.class
+/PriorityQueueExample.class
+/PatientPriorityComparator.class
